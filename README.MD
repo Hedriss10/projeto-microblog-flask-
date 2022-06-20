@@ -27,7 +27,9 @@
 
 # Motivo do projeto em flask
 
-### Treinamento, e um processo seletivo para um emprego em python dev !!! 
+-Treinamento, e um processo seletivo para um emprego em python dev
+-Infelizmente não conseguir o emprego, mas passo bem ! ksks..
+- Agradeço á quem lêu até aqui, abraços
 
 
 
@@ -35,5 +37,5 @@
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hedriss10/)
  
- #fim 
+# fim 
 
